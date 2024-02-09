@@ -12,7 +12,7 @@ For this project, we were challenged to craft a 3D scene with OpenGL3. Opting fo
   
 </p>
 
-## Contributors
-
-- [@RB-Younes](https://github.com/RB-Younes)
+## Collaborators
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
+- [@RB-Younes](https://github.com/RB-Younes)
+
